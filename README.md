@@ -3,7 +3,7 @@
 > I am also a mom, registered dietitian nutritionist, adjunct instructor, and avid community volunteer. You can find me at many local tech meetups in OKC! Check out my [portfolio](https://laylakrauss.dev) to learn more.  
 
 👀 Looking for work as a `junior full-stack developer`<br>
-🧩 I thrive off learning database architecture and solving the puzzel of getting data from point A to point B, manipulatng data, and debugging server-side errors<br>
+🧩 I thrive off learning database architecture and solving the puzzel of getting data from point A to point B, manipulating data, and debugging server-side errors<br>
 🍇 `django` and `sql` have been my jam lately<br>
 🐳 Some experience with `docker`; interested in learning more `ci/cd`<br>
 🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications<br>
