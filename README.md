@@ -5,7 +5,7 @@
 👀 Looking for work as a `junior full-stack developer`<br>
 🧩 I thrive off learning database architecture and solving the puzzel of getting data from point A to point B, manipulatng data, and debugging server-side errors<br>
 🍇 `django` and `sql` have been my jam lately<br>
-🐳 Some experience with `docker`. Interested in learning more `ci/cd`<br>
+🐳 Some experience with `docker`; interested in learning more `ci/cd`<br>
 🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications<br><br>
 
 - - -
@@ -21,7 +21,7 @@
 🍎 Board member of the [Oklahoma Academy of Nutrition and Dietetics](https://www.oknutrition.org/)<br><br>
 
 - - - 
-**WORK**<br>
+**NON-DEV WORK**<br>
 🏥 Neonatal Dietitian<br>
 🏫 Adjunct Instructor<br><br>
 
