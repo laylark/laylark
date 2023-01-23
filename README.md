@@ -1,51 +1,29 @@
 # ✌🏼 Hi, I'm *Layla*.
 ## `I am a self-taught software developer`
-<br />
-I am also a mom, registered dietitian nutritionist, adjunct instructor, and avid community volunteer. You can find me at many local tech meetups in OKC! Check out my [portfolio](https://laylakrauss.dev) to learn more.
-<br />
-<br />
-👀 Looking for work as a `junior full-stack developer`
-<br />
-🧩 I thrive off learning database architecture and solving the puzzel of getting data from point A to point B, manipulatng data, and debugging server-side errors
-<br />
-🍇 `django` and `sql` have been my jam lately
-<br />
-🐳 Some experience with `docker`. Interested in learning more `ci/cd`
-<br />
-🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications
-<br />
-<br />
-<hr />
-### PROJECTS
-<br />
-🍼 [NICU Calculations](https://nicu.mothercodesbest.dev/) is a nutrition calculator I built using `flask` that I use daily at work. - Private repo, ask me about it.
-<br />
-📝 [Tidbits](https://tidbits.mothercodesbest.dev/) is a fun `flask` app that I created after following the OpenAI API tutorial. Be prepared for some blunt, snarky responses.
-<br />
-🐶 [Doggy Auctions](https://github.com/laylark/commerce) is an Ebay-like auction site built using `django` as a part of the CS50W coursework. <b>Disclaimer: this app was to help me better learn Django models and migrations. I do not condone auctioning off your pets!</b>
-<br />
-<br />
-<hr />
-### VOLUNTEER
-<br />
-✨ Organizing for [SheCodesOKC](https://www.meetup.com/shecodesokc) & [OKC Coffee & Code](https://www.meetup.com/okccoffeeandcode)
-<br />
-🦬 Techlahomie(https://techlahome.org)
-<br />
-📢 [Speaking](https://www.youtube.com/watch?v=YbgZRIys1Y4&t=1s) at [OKC WebDevs](https://www.meetup.com/okcwebdevs/)
-<br />
-🍎 Board member of the [Oklahoma Academy of Nutrition and Dietetics](https://www.oknutrition.org/)
-<br />
-<br />
-<hr />
-### WORK
-<br />
-🏥 Neonatal Dietitian
-<br />
-🏫 Adjunct Instructor
-<br />
-<br />
-<br />
+> I am also a mom, registered dietitian nutritionist, adjunct instructor, and avid community volunteer. You can find me at many local tech meetups in OKC! Check out my [portfolio](https://laylakrauss.dev) to learn more.  
+
+👀 Looking for work as a `junior full-stack developer`<br>
+🧩 I thrive off learning database architecture and solving the puzzel of getting data from point A to point B, manipulatng data, and debugging server-side errors<br>
+🍇 `django` and `sql` have been my jam lately<br>
+🐳 Some experience with `docker`. Interested in learning more `ci/cd`<br>
+🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications<br><br>
+
+- - -
+**PROJECTS**<br>
+🍼 [NICU Calculations](https://nicu.mothercodesbest.dev/) is a nutrition calculator I built using `flask` that I use daily at work. - Private repo, ask me about it.<br>
+📝 [Tidbits](https://tidbits.mothercodesbest.dev/) is a fun `flask` app that I created after following the OpenAI API tutorial. Be prepared for some blunt, snarky responses.<br>
+🐶 [Doggy Auctions](https://github.com/laylark/commerce) is an Ebay-like auction site built using `django` as a part of the CS50W coursework. **Disclaimer: this app was to help me better learn Django models and migrations. I do not condone auctioning off your pets!**<br><br>
+- - - 
+**VOLUNTEER**<br>
+✨ Organizing for [SheCodesOKC](https://www.meetup.com/shecodesokc) & [OKC Coffee & Code](https://www.meetup.com/okccoffeeandcode)<br>
+🦬 [Techlahomie](https://techlahoma.org)<br>
+📢 [Speaking](https://www.youtube.com/watch?v=YbgZRIys1Y4&t=1s) at [OKC WebDevs](https://www.meetup.com/okcwebdevs/)<br>
+🍎 Board member of the [Oklahoma Academy of Nutrition and Dietetics](https://www.oknutrition.org/)<br><br>
+
+- - - 
+**WORK**<br>
+🏥 Neonatal Dietitian<br>
+🏫 Adjunct Instructor<br><br>
 
 ### Who is Layla?
 ~~~js
