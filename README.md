@@ -6,7 +6,9 @@
 🧩 I thrive off learning database architecture and solving the puzzel of getting data from point A to point B, manipulatng data, and debugging server-side errors<br>
 🍇 `django` and `sql` have been my jam lately<br>
 🐳 Some experience with `docker`; interested in learning more `ci/cd`<br>
-🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications<br><br>
+🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications<br>
+🐠 I love cooking and eating `salmon bowls`<br>
+🌎 My [husband](https://github.com/alkrauss48) and son are my entire world<br><br>
 
 - - -
 **PROJECTS**<br>
