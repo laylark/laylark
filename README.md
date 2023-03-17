@@ -2,11 +2,11 @@
 ## `I am a self-taught software developer`
 > I am also a mom, registered dietitian nutritionist, adjunct instructor, and avid community volunteer. You can find me at many local tech meetups in OKC! Check out my [portfolio](https://laylakrauss.dev) to learn more.  
 
-👀 Looking for work as a `junior full-stack developer`<br>
+🦊 Working at Clevyr as a `junior full-stack developer`<br>
 🧩 I thrive off learning database architecture and solving the puzzle of getting data from point A to point B, manipulating data, and debugging server-side errors<br>
-🍇 `django` and `sql` have been my jam lately<br>
+🍇 `laravel` and `django` have been my jam lately<br>
 🐳 Some experience with `docker`; interested in learning more `ci/cd`<br>
-🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications<br>
+🎨 Even though I am happiest in the backend, I still enjoy making responsive web applications using `vue`<br>
 🐠 I love cooking and eating `salmon bowls`<br>
 🌎 My [husband](https://github.com/alkrauss48) and son are my entire world<br><br>
 
@@ -24,7 +24,6 @@
 
 - - - 
 **NON-DEV WORK**<br>
-🏥 Neonatal Dietitian<br>
 🏫 Adjunct Instructor<br><br>
 
 ### Who is Layla?
@@ -50,8 +49,8 @@ class SoftwareDeveloper {
     };
 
     learnCoolStuff() {
-        this.technologies.db = {mysql: 'MySQL'};
-        this.technologies.backEnd = {django: 'Django'};
+        this.technologies.db = {postgresql: 'PostgreSQL'};
+        this.technologies.backEnd = {laravel: 'Laravel'};
         this.technologies.frontEnd = {vue: 'Vue'};
         this.technologies.cicd = {
             docker: 'Docker',
