@@ -62,3 +62,5 @@ class SoftwareDeveloper {
 const me = new SoftwareDeveloper('Layla');
 me.learnCoolStuff();
 ~~~
+
+[![An image of @laylark's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laylark)](https://holopin.io/@laylark)
